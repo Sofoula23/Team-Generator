@@ -131,7 +131,8 @@ function buildTeam() {
          team.push(intern)
          id.push( answers.internId )
          buildTeam()
-     });
+     }).catch(error => console.log (error)
+     );
      
      function createOutputFile() {
       fs.writeFileSync(outputPath, render(team), "utf-8")
