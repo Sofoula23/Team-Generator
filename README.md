@@ -4,9 +4,11 @@
 
 https://github.com/Sofoula23/Team-Generator
 
-## Screenshot of Deployed version
+## Screenshot of Deployed version & stylized version
 
 ![Team Generator](./assets/1611285493309.png)
+
+![Team Generator](./assets/styled.png) 
 
 ## Finished Code
 
